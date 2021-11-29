@@ -5,5 +5,5 @@ platform :ios, '12.0'
 target 'CxenseSwiftSample' do
   use_frameworks!
 
-  pod 'CxenseSDK', '~>1.9.5.1'
+  pod 'CxenseSDK', '~>1.9.6'
 end
